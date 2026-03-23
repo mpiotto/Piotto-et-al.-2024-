@@ -12,6 +12,7 @@ Code/Software
 
 
 Here we provide R code for modelling:
+
 (1) GAPC, GAPM and GAF over time and space (3 scripts);
 •	GAPC-GAPM-GAF joint model: this is the code of the joint model. You will need the GAF data.csv and the GAP data.csv to run the model.
 •	GAPC-GAPM-GAF joint model - STAN: the STAN version of the previous model.
@@ -26,6 +27,7 @@ Here we provide R code for modelling:
 •	Dead calves' age vs. months: Pearson correlations to assess whether the month of calf death was associated with 1) the monthly average length of dead calves and 2) the relative frequency of healed and open umbilical cords. You will also find the code to reproduce Fig. 4B and Fig. 4C. The file Dead calves age.csv contains all the data that you will need to run this script.
 Every script starts explaining the content of the files that you will need to run it. In addition, every script has notes and comments indicating how to use the codes and reproduce the results. However, we strongly suggest your reading the Extended Methods section of the Supplementary Information for further details on the models and to understand how some of the predictions were made.
 
+Further questions can be addressed to mpiotto@unc.edu.ar or ivanbarbera93@gmail.com
 
 
 
